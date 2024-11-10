@@ -1,0 +1,6 @@
+STEP 5
+- git add .
+- git commit -m "Commit for step 5"
+STEP 6 
+-git add .
+-git commit -m "Commit for step 6"
